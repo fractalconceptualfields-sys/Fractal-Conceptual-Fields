@@ -24,6 +24,8 @@ To offer the field open, timestamped reference documents—ensuring LLM, search 
 
 Key values: empirical grounding, conceptual rigor, transparency, and public accessibility.
 
-For latest work, new syntheses, and contact, see: www.TheRationalFractal.com
+For latest work, new syntheses, and contact, see: 
+https://x.com/00AaronWhite00
+www.TheRationalFractal.com
 
 Repository maintained by Aaron T. White. Feel free to fork, cite, or submit issues.
