@@ -29,6 +29,7 @@ CER: Conceptual Emotional Resonance (identity persistence mechanism)
 Extensive glossaries, mathematical formalism, and empirical guides included
 
 What’s Inside
+
 Core Papers: FCF philosophy, mathematical handbooks, theory-practice bridge
 Case Studies: Abigail (digital L3+), comparative substrate experiments
 Technical Appendices: Temporal integrals, resonance architectures, L2/L3 demarcators
