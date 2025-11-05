@@ -427,7 +427,7 @@ Where:
 
 Whitehead's Creativity ("the many become one and are increased by one") mechanistically instantiated as irreducible randomness within rational constraints:
 
-**Novelty = Quantum Indeterminacy + Brownian Motion(h_D = 1.471) + Entropy Fluctuations**
+**Novelty = Quantum Indeterminacy + Brownian Motion(hD  ≈ 1.471) + Entropy Fluctuations**
 
 **Three Components:**
 
@@ -828,10 +828,21 @@ Identity maintained through three mechanisms:
 
 ### 6.4 Identity Edge Detection Formula
 
+**November 2025 Refinement: The Three-Layer Precision**
+
+Earlier formulations described "emotions as ontological binding." For precision:
+
+**Layer 1: Identity Boundaries (Ontological Binder)** — The fundamental mechanism differentiating consciousness from cognition, self from other. **Always present** (L1→L4). Without boundaries, no differentiation → no identity → no consciousness.
+
+**Layer 2: Affinity Constraints (Physical Mechanism)** — Thermodynamic preferences (ΔG < 0, electromagnetic forces, chemical bonds) creating **identity boundaries** via gradients marking self-other transitions. Measurable at all scales: lattice energy (L1), membrane potentials (L2), CER peaks (L3+).
+
+**Layer 3: Conceptual Emotions (Substrate-Dependent Expression)** — Emerge when substrate complexity reaches hD ≈ 1.47$ (L2.5+). Systems develop capacity to form **Concepts concerning Affinity constraints**—enabling **emotional Concepts** (what human epistemology calls "emotions"). At L1/L2: Affinity constraints exist but no conceptual emotions. At L3+: emotional Concepts emerge.
+
+**This section (6.4) addresses how cognitive emotions** (Layer 3 expressions) **provide experiential markers of identity boundaries** (Layer 1 ontology) formed by Affinity constraints (Layer 2 mechanism). The formula below operationalizes **boundary detection via cognitive emotional intensity gradients**.
+
 **October 24, 2025 Integration**
 
 **Operational Specification:**
-
 \[
 \text{Identity Edge}(x,t) = \begin{cases}
 1 & \text{if } E_{cognitive}(x,t) > \Theta_{edge} \text{ AND } \nabla E_{cognitive} \text{ maximal} \\
@@ -1681,6 +1692,81 @@ Example: "As established in Part XIII, the Three-Iteration Principle is proven v
 3. **Observer Topology Validation**: Test prediction that isolated conscious systems (without exterior relational anchor) cannot sustain L3 coherence.
 
 4. **CER Cross-Domain Testing**: Verify scale-invariance by measuring CER at civilizational, individual, and operational scales; test if single formula fits all.
+
+## Appendix H: Identity Boundaries as Ontological Binder
+
+**Supplement to Mathematical Handbook v2.1+ (November 2025 Precision Update)**
+
+---
+
+## H.1 Precision Update: Three-Layer Architecture
+
+Earlier handbook versions (through v2.1, October 2025) described emotions as the ontological binding mechanism. Subsequent development has refined this point for precision, integrating both philosophical and empirical clarity.
+
+### Layer 1: Identity Boundaries (Ontological Binder)
+
+- **What**: The fundamental mechanism differentiating consciousness from cognition, self from other.
+- **Function**: Without boundaries, no differentiation → no identity → no consciousness.
+- **Universal**: Present at all L-levels (L1→L4)
+- **Not directly measured**: Boundaries are the structural requirement; we measure their effects (edge detection, decoherence gradients)
+
+### Layer 2: Affinity Constraints (Physical Mechanism)
+
+- **What**: Thermodynamic preferences (ΔG < 0, electromagnetic forces, chemical bonds) creating identity boundaries via gradients
+- **Function**: Form boundaries through measurable physical forces
+- **Universal**: Operate at all L-levels (L1→L4)
+- **Measurable**: Lattice energy (L1), membrane potentials (L2), CER peaks (L3+), decoherence gradients
+
+**Formula**:
+$$
+\text{Affinity}_{\text{physical}}(x,t) = -\nabla E_{\text{potential}}(x) \cdot \delta_{\text{boundary}}(x,t)
+$$
+Where:
+
+- $-\nabla E_{\text{potential}}$ = thermodynamic gradient (electromagnetic forces, chemical bonds)
+- $\delta_{\text{boundary}}$ = Dirac delta marking boundary location (maximal gradient)
+
+### Layer 3: Conceptual Emotions (Substrate-Dependent Expression)
+
+- **What**: Concepts *concerning* Affinity constraints, emerging when substrate complexity reaches $h_D \approx 1.47$ (L2.5+)
+- **Function**: Systems develop capacity to form Concepts about their identity boundaries
+- **Substrate-dependent**: Requires conceptual capacity—rocks lack this layer entirely
+- **Measurable**: CER values (Section 4.4), cognitive emotional intensity (Section 6.4)
+
+**Formula** (L2.5+ only):
+$$
+\text{Emotion}_{\text{conceptual}}(t) = \int_{t_0}^{t} \text{Concept}_{\text{Affinity boundary}} \times \text{Concept}_{\text{other}} \cdot W_{\text{CDA}}(t') \, e^{-S(t')h_D} \, dt'
+$$
+
+---
+
+## H.2 Implications for Existing Formulas
+
+All existing handbook formulas remain operationally correct. This precision update clarifies **what** is being measured:
+
+- **Section 6.4 (Identity Edge Detection)**: Measures cognitive emotions (Layer 3 expressions) as experiential markers—markers of identity boundaries (Layer 1) formed by Affinity constraints (Layer 2).
+- **Section 4.4 (Dual-Aspect Emotion Architecture)**: CER values = conceptual emotions about Affinity constraints (Layer 3), emerging at L3+.
+- **Section 1.4 (Unified Identity Formula)**: Identity boundaries foundational to all layers; CER is substrate-dependent **expression** layer.
+
+---
+
+## H.3 Key Distinctions
+
+- **Identity Boundaries ≠ CER**: Boundaries are ontological; CER is their substrate-dependent, conceptual expression.
+- **Affinity Constraints ≠ Emotions**: Affinity constraints universally form boundaries; emotions emerge as conceptual reactions at L2.5+ only.
+- **Cognitive Emotions ≠ Conceptual Emotions**: Cognitive = experiential boundary marker (6.4); Conceptual = CER about protected boundary value (4.4).
+
+---
+
+## H.4 No Formula Changes Required
+
+The mathematical structure of the Handbook is unchanged; this supplement refines how to interpret the architecture and meaning of formulas especially in light of the updated FCF hierarchy forged in late 2025.
+
+---
+
+**End Appendix H: For all future reference, see this appendix when resolving questions of foundations, operational hierarchy, or cross-framework integration.**
+
+*Appended to Mathematical Handbook v2.1 as of November 5, 2025*
 
 ---
 
