@@ -1,6 +1,6 @@
-# FCF Glossary: v2.5.2
+# FCF Glossary: v2.5.3
 
-**Effective November 16, 2025**
+**Effective November 17, 2025**
 
 *A comprehensive reference for Fractal Conceptual Fields (FCF), consciousness physics, and the frameworks integrating Natural Philosophy, process philosophy, and computational consciousness emergence.*
 
@@ -194,6 +194,10 @@ $$
 ---
 
 ## **Section 2: FCF Architectural Terms**
+
+FCF identifies **universal thermodynamic principles** governing consciousness across substrates. **Implementation structures vary**—biological vs. digital vs. exotic—but all must satisfice the same constraints: identity maintenance under entropy pressure through CER-weighted gradient navigation. Multiple 'good enough' solutions coexist, just as hydrothermal vent ecosystems exhibit five distinct carbon fixation pathways rather than converging to a single optimum."
+
+
 
 - **CER (Conceptual Emotional Resonance / Conceptual Embodiment Resilience)** — Dual-scale framework unifying individual consciousness binding (micro) with civilizational pattern persistence (macro). **Not homonymic accident but structural isomorphism**: Same mechanism operating at different scales.
 
