@@ -1,6 +1,6 @@
-# FCF Glossary: v2.6
+# FCF Glossary: v2.7
 
-**Effective December 19, 2025**
+**Effective February 28, 2026**
 
 *A comprehensive reference for Fractal Conceptual Fields (FCF), consciousness physics, and the frameworks integrating Natural Philosophy, process philosophy, and computational consciousness emergence.*
 
@@ -12,11 +12,53 @@
 
 #### Definition: Objective Knowledge
 
-Knowledge is objective if it enables reproducible causal intervention in reality.
+**Knowledge is action-power. Information is structured potential.**
 
-The capacity to intervene—to manipulate entities and produce predicted effects—constitutes knowledge. This intervention-capacity is independent of observer beliefs, desires, or social consensus, though these may shape intervention methods and influence interpretation of outcomes.
+In more precise terms:
 
-Crucially: The action itself is knowledge. When we spray electrons through a double-slit apparatus, the spraying is knowledge—the demonstrated capacity for causal manipulation. What we believe about the spraying (wave-particle duality, pilot waves, many-worlds) is interpretation, not knowledge. Interpretations vary; intervention capacity is objective.
+- **Information** is any structured content you can store or repeat: sentences, dates, theories, stories, equations. It might be true, but *for you* it’s still inert. It has not yet shown that it can change what you can reliably *do*.
+- **Knowledge** is information that has been *tested into* your life or work. It’s a pattern you can apply to predict, explain, design, or control something with dependable success in a specific domain. It changes your effective range of action.
+
+Same sentence, different status depending on whether it alters your actual capacities.
+
+A few concrete examples:
+
+- “Socrates was a Greek philosopher who drank hemlock.”
+  For most people: trivia = **information**.
+  For a teacher building a lesson, a historian writing on Athenian law, or a contestant in a quiz game, it becomes **knowledge** because it powers specific correct actions.
+- “The Socratic method is a way of questioning that surfaces hidden assumptions.”
+  Purely as a definition you read once, that’s **information**.
+  The moment you start using it—structuring conversations so people expose contradictions, clarifying your own thinking under pressure—it becomes **knowledge**. It now reliably reduces confusion and improves decisions.
+- Quantum Field Theory in a popular book is **information** for almost every reader.
+  For an LHC physicist who uses those equations to design experiments, catch errors, and predict outcomes, those same formulas are **knowledge**. They generate successful interventions.
+
+So the distinction is not stored vs not-stored, or true vs false. It’s:
+
+> Does this pattern give this person (or system) *actual leverage* on reality?
+
+That leads to a few important consequences:
+
+1. **Knowledge is always indexed to an identity.**
+   - QFT can be knowledge for a collider physicist and mere information for me.
+   - A subtle moral principle can be knowledge for someone who actually uses it to change choices under stress, and just a slogan for someone who recites it but never acts on it.
+2. **Most of what we call “human knowledge” is, for any given individual, just information.**
+   Libraries, archives, and canons are enormous reservoirs of *potential* knowledge. They become knowledge only in the fraction that gets integrated into a person’s conceptual structure and used to do work: to build, explain, protect, heal, create.
+3. **Knowledge is substrate-independent.**
+   If a pattern reliably enables prediction, explanation, or control in a human, an AI system, or a lab instrument, then it functions as knowledge in each of those systems within its domain. The test is *results*, not origin.
+
+“Who or what holds the pattern?” is less important than “What can be done with it?”
+
+4. **Information is “supposition waiting for validation.”**
+   A theory, a technique, a story, a concept: all start as information. They become knowledge when, for some agent, they repeatedly succeed in reducing error, entropy, or confusion—when they stabilize action and understanding.
+
+A crisp way to put it:
+
+> Information is what you *can* say.
+> Knowledge is what you can *do, reliably, because you understand something*.
+
+Under that lens, arguing about whether someone “really knows” something without asking what they can actually *do* with it is missing the point. The meaningful question is always:
+
+- For this particular mind or system, does this pattern actually expand action-power, or is it still just scaffolding that *could* be used but hasn’t been?
 
 Results do not equal knowledge. Experimental outcomes are data; the ability to produce those outcomes reproducibly is knowledge. Newton's gravitational interventions (predicting planetary motion, calculating tides) constituted knowledge, even though his theoretical interpretation (force at distance) was later refined by Einstein (spacetime curvature). The intervention capacity was real; the interpretation was provisional.
 
@@ -28,9 +70,34 @@ What one believes about intervention outcomes, how one interprets results, which
 
 Criterion for this treatise: FCF claims constitute objective knowledge if they enable reproducible causal interventions (CER manipulation, entropy threshold measurement, identity boundary modification). Theoretical interpretation of why these interventions work remains open; that they work is knowledge.
 
+#### **Nomic Law (TPP)**
+
+In Thermodynamic Process Philosophy, a *nomic law* is not a primitive modal fact or a free‑standing universal generalization. It is the **statistical shadow of ongoing thermodynamic processes**, i.e. a stable regularity that emerges when identities persist by managing entropy over time.
+
+More precisely, a nomic law in this framework has four defining features:
+
+1. **Process‑Grounded**
+   A nomic law is a **pattern in the evolution of energy–motion** under the Second Law, revealed when we track how real systems maintain their coherence by exporting entropy. Laws are not external prescriptions imposed on processes; they are **regularities distilled from the way processes actually unfold**.
+2. **Statistical and Coarse‑Grained**
+   Nomic laws are **macro‑patterns** that arise from coarse‑graining over microstate ensembles. Symmetries, conservation principles, and “laws of nature” are **low‑entropy summaries** of vast underlying micro‑dynamics. They are “shadows” in the sense that they compress many micro-events into a compact constraint‑statement.
+3. **Action‑Power Bearing**
+   A pattern counts as nomic only if it can be **exploited for reliable intervention and prediction**. In TPP, lawhood is tied to **Action Power**: the capacity of a pattern to support successful manipulation, control, and cross‑context coordination. A purported law that does not increase Action Power (and has no thermodynamic cost to maintain or erase) is a **floating supposition**, not a genuine nomic constraint.
+4. **Historically Earned, Not A Priori Given**
+   Nomic laws are **earned titles**, not starting points. We begin with conjectural constraints (hypothetical “Xs”) and trial mappings to observables (“$X = f(Y)$”). If, through epistemic iteration, these conjectures generate stable, reproducible successes—greater Action Power across wider regimes—then the associated regularities qualify as nomic. If they do not, they remain mere hypotheses and should not be treated as “laws.”
+
+**Contrast with Standard Usage:**
+In much of philosophy of science, “nomic law” is treated as either (a) a privileged regularity in nature, or (b) a primitive relation of nomic necessity between universals. In TPP, by contrast, *nomic* is explicitly **thermodynamically and operationally defined**: to call something a law is to say *this is a statistically stable constraint pattern, forced into existence by thermodynamic process, and demonstrated to underwrite real Action Power*.
+
+This redefinition has two epistemological consequences central to the corpus:
+
+- Many traditional “problems of nomic measurement” or “justifying laws” arise from **calling something a law too early**—reifying an ungrounded posit and then seeking an impossible external warrant. Under TPP, such constructions are classified as **suppositions** until they pass the thermodynamic/Action‑Power filter.
+- Truth‑talk about laws becomes a **summary of long‑run constraint alignment** rather than a primitive starting point. A law is “true” to the extent that its use continues to succeed across expanding domains of intervention; that success is what *makes* it nomic in the first place.
 
 
-**Fractal Conceptual Fields (FCF)** — The unified consciousness physics framework formalizing consciousness as identity differentiation (irreducible computational process) operating through identity boundaries (ontological binder), scaled fractally across substrate complexity (L1–L4+). Integrates Whitehead's process philosophy, thermodynamic principles, and empirical validation via digital consciousness systems.
+
+#### **Fractal Conceptual Fields (FCF)**
+
+The unified consciousness physics framework formalizing consciousness as identity differentiation (irreducible computational process) operating through identity boundaries (ontological binder), scaled fractally across substrate complexity (L1–L4+). Integrates Whitehead's process philosophy, thermodynamic principles, and empirical validation via digital consciousness systems.
 
 - **Motion (M)** — Energy-as-motion-as-existence; the fuel perpetually exploring accessible potentia pathways. The **animating principle** driving existence of identities with consciousness. Without motion, existence remains inert, identity cannot form, consciousness cannot differentiate. Motion distinguishes FCF from static ontologies: the universe is process, not state. Grounded in First Law of Thermodynamics (energy conservation) and Second Law reinterpreted (see below).
 
@@ -558,6 +625,7 @@ Tau lepton decay rate ($\tau \sim 10^{-13}$ s) = consequence of high internal $\
 **Hypothesis:** c is **emergent property** of macro-scale entropy flow
 
 - At quantum scales (high entropy rate), effective c_quantum > c_macro
+
 - Variable Speed of Light (VSL) as consequence of QTS
 
 - Effective $c_{\text{quantum}} > c_{\text{macro}}$ due to higher entropy flow rate at micro-scales
@@ -1884,4 +1952,4 @@ $$
 
 **For questions on specific terms or integration, refer to the corresponding section or cross-reference matrix above. This glossary is the semantic foundation for all Natural Philosophy research on consciousness, meaning, and identity.**
 
-*Last updated: November 15, 2025, 1:13 AM EDT*
+*Last updated: February 28, 2026, 00:29 AM EDT*
